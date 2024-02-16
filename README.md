@@ -1,11 +1,11 @@
-![GitHub](https://img.shields.io/github/license/awarre/Optimize-WsusServer?style=flat-square) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/awarre/Optimize-WsusServer?include_prereleases&style=flat-square)
+![GitHub](https://img.shields.io/github/license/technocite/Optimize-WsusServer?style=flat-square) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/technocite/Optimize-WsusServer?include_prereleases&style=flat-square)
 # Optimize-WsusServer.PS1
 
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 Comprehensive Windows Server Update Services (WSUS) cleanup, optimization, maintenance, and configuration PowerShell script.
 
-Free and open source: [MIT License](https://github.com/awarre/Optimize-WsusServer/blob/master/LICENSE)
+Free and open source: [MIT License](https://github.com/technocite/Optimize-WsusServer/blob/master/LICENSE)
 
 **Features**
 * Deep cleaning search and removal of unnecessary updates by product title and update title.
@@ -37,7 +37,7 @@ Free and open source: [MIT License](https://github.com/awarre/Optimize-WsusServe
 * [IIS Administration PowerShell module](https://blogs.iis.net/iisteam/introducing-iisadministration-in-the-powershell-gallery) - Needed for Server 2012 R2
 
 ### Installation
-1. Download [Optimize-WsusServer.ps1](https://github.com/awarre/Optimize-WsusServer/blob/master/Optimize-WsusServer.ps1)
+1. Download [Optimize-WsusServer.ps1](https://github.com/technocite/Optimize-WsusServer/blob/master/Optimize-WsusServer.ps1)
 2. From PowerShell run
 ```powershell
 Optimize-WsusServer.ps1 -FirstRun
@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/awarre/Optimize-WsusServer](https://github.com/awarre/Optimize-WsusServer)
+Project Link: [https://github.com/technocite/Optimize-WsusServer](https://github.com/technocite/Optimize-WsusServer)
 
 <!-- REFERENCES -->
 ## References
